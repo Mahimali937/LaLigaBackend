@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin("http://localhost:3000")
+@CrossOrigin("https://laligazone.vercel.app")
 @RequestMapping(path = "api/v1/player")
 public class PlayerController {
 
