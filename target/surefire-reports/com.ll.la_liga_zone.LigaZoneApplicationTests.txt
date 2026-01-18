@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ll.la_liga_zone.LigaZoneApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.181 s -- in com.ll.la_liga_zone.LigaZoneApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.159 s -- in com.ll.la_liga_zone.LigaZoneApplicationTests
